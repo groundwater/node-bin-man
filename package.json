@@ -1,0 +1,14 @@
+{
+  "name": "bin-man",
+  "version": "0.0.0",
+  "description": "",
+  "bin": {
+    "man": "man.js"
+  },
+  "repository": "",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "blessed": "~0.0.22"
+  }
+}
